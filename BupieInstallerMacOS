@@ -1,11 +1,12 @@
 #!/bin/bash
 
 echo ""
-echo -e "\e[1;31m Make sure you are in the Bupie's location folder. Press 1 to continue.\e[0m"
+echo -e "\e[1;31m Are you sure you want to install it? Press 1 to continue, or 2 to abort the installation.\e[0m"
 echo ""
 read n
 echo ""
 
 case $n in
   1) cp Bupie /usr/local/bin;;
+  2) exit;;
 esac
