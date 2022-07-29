@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo ""
+echo " Hey $USER, want to hear a bup?"
+echo ""
+echo "1) Yes! Of course."
+echo "2) Nah man, get me out of here."
+echo ""
+read n
+echo ""
+
+case $n in
+  1) osascript -e "set Volume 10" && tput bel;;
+  2) echo " See you later then! ;)";;
+  *) echo " Uhhh, what?";;
+esac
+
+echo ""
