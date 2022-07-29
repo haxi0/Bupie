@@ -1,4 +1,4 @@
-![alt text] (https://raw.githubusercontent.com/haxi0/Bupie/main/assets/Bupie.png?raw=true)
+<img src="assets/Bupie.png" alt="Logo" width="512" height="512">
 # Bupie
 Simple shell script that I wrote for the first time. Does nothing but a "bup" sound, or alternatively, a bell sound.
 > P.S. Only was tested on MacOS! I don't know how it will work on Linux, but you can test it and say if it works.
