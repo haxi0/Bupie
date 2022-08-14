@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/Bupie.png" alt="Logo" width="200" height="200">
+<img src="assets/Bupie.PNG" alt="Logo" width="200" height="200">
 </p>
 
 # Bupie
